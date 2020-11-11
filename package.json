@@ -2,7 +2,7 @@
   "name": "rick-and-morty-encyclopedia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://who-is-beto.github.io/rick-and-morty-encyclopedia",
+  "homepage": "https://who-is-beto.github.io/rick-and-morty-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
