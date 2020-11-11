@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rick-and-morty-encyclopedia/static/css/main.e67aa54e.chunk.css",
-    "main.js": "/rick-and-morty-encyclopedia/static/js/main.ad994fa7.chunk.js",
-    "main.js.map": "/rick-and-morty-encyclopedia/static/js/main.ad994fa7.chunk.js.map",
-    "runtime-main.js": "/rick-and-morty-encyclopedia/static/js/runtime-main.783ee4c1.js",
-    "runtime-main.js.map": "/rick-and-morty-encyclopedia/static/js/runtime-main.783ee4c1.js.map",
-    "static/js/2.3c414333.chunk.js": "/rick-and-morty-encyclopedia/static/js/2.3c414333.chunk.js",
-    "static/js/2.3c414333.chunk.js.map": "/rick-and-morty-encyclopedia/static/js/2.3c414333.chunk.js.map",
-    "index.html": "/rick-and-morty-encyclopedia/index.html",
-    "static/css/main.e67aa54e.chunk.css.map": "/rick-and-morty-encyclopedia/static/css/main.e67aa54e.chunk.css.map",
-    "static/js/2.3c414333.chunk.js.LICENSE.txt": "/rick-and-morty-encyclopedia/static/js/2.3c414333.chunk.js.LICENSE.txt"
+    "main.css": "/rick-and-morty-app/static/css/main.e67aa54e.chunk.css",
+    "main.js": "/rick-and-morty-app/static/js/main.ad994fa7.chunk.js",
+    "main.js.map": "/rick-and-morty-app/static/js/main.ad994fa7.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-app/static/js/runtime-main.732ad5c2.js",
+    "runtime-main.js.map": "/rick-and-morty-app/static/js/runtime-main.732ad5c2.js.map",
+    "static/js/2.3c414333.chunk.js": "/rick-and-morty-app/static/js/2.3c414333.chunk.js",
+    "static/js/2.3c414333.chunk.js.map": "/rick-and-morty-app/static/js/2.3c414333.chunk.js.map",
+    "index.html": "/rick-and-morty-app/index.html",
+    "static/css/main.e67aa54e.chunk.css.map": "/rick-and-morty-app/static/css/main.e67aa54e.chunk.css.map",
+    "static/js/2.3c414333.chunk.js.LICENSE.txt": "/rick-and-morty-app/static/js/2.3c414333.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.783ee4c1.js",
+    "static/js/runtime-main.732ad5c2.js",
     "static/js/2.3c414333.chunk.js",
     "static/css/main.e67aa54e.chunk.css",
     "static/js/main.ad994fa7.chunk.js"
